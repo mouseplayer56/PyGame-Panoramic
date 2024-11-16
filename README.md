@@ -23,3 +23,4 @@ And the code to adjust if you want to move the stickman:
 ```
 (panora_part[1] + 500, 50))
 ```
+_**Requires Python 3.13. Probably works on some older versions.**_
