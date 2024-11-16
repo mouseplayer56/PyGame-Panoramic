@@ -4,6 +4,7 @@ import os
 pg.init()
 width, height = 1280, 720
 bg = pg.display.set_mode((width, height))
+pg.display.set_caption("Panorama")
 fps = 60
 
 exit_code_normal = 0
