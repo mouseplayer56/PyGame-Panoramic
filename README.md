@@ -19,4 +19,7 @@ width, height = 1280, 720
 lookspeed = 3000
 ```
 
-And the code to adjust 
+And the code to adjust if you want to move the stickman:
+```
+(panora_part[1] + 500, 50))
+```
